@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tablero-sprint-review/static/css/main.145deac7.css",
-    "main.js": "/tablero-sprint-review/static/js/main.9cdba31f.js",
+    "main.css": "/tablero-sprint-review/static/css/main.fd9d6bc8.css",
+    "main.js": "/tablero-sprint-review/static/js/main.0db7219c.js",
     "static/js/787.db41ed80.chunk.js": "/tablero-sprint-review/static/js/787.db41ed80.chunk.js",
     "index.html": "/tablero-sprint-review/index.html",
-    "main.145deac7.css.map": "/tablero-sprint-review/static/css/main.145deac7.css.map",
-    "main.9cdba31f.js.map": "/tablero-sprint-review/static/js/main.9cdba31f.js.map",
+    "main.fd9d6bc8.css.map": "/tablero-sprint-review/static/css/main.fd9d6bc8.css.map",
+    "main.0db7219c.js.map": "/tablero-sprint-review/static/js/main.0db7219c.js.map",
     "787.db41ed80.chunk.js.map": "/tablero-sprint-review/static/js/787.db41ed80.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.145deac7.css",
-    "static/js/main.9cdba31f.js"
+    "static/css/main.fd9d6bc8.css",
+    "static/js/main.0db7219c.js"
   ]
 }
